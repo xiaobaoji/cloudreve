@@ -5,7 +5,7 @@ The docker of Cloudreve
 
 本容器基于redis:5-alpine基础镜像制作，在保证程序运行稳定的前提下，实现最小空间占用以及资源消耗
 
-本容器的Cloudreve版本为Cloudreve-3.3.1，镜像最新版本为
+本容器的Cloudreve版本为Cloudreve-3.7.1，镜像最新版本为
 ```littleplus/cloudreve:3.3.1-sqlite```
 
 ### 容器特点
